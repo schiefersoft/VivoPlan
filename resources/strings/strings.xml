@@ -1,9 +1,5 @@
 <strings>
-    <string id="AppName">VivoPlan</string>
-
-    <string id="prompt">Click the menu button</string>
-
-
+    <string id="AppName">Stundenplan</string>
     <string id="mo">Montag</string>
     <string id="di">Dienstag</string>
     <string id="mi">Mittwoch</string>

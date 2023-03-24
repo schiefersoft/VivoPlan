@@ -1,9 +1,10 @@
 import Toybox.Lang;
 import Toybox.WatchUi;
 
-class VivoPlanDelegate extends WatchUi.BehaviorDelegate {
-
-    function initialize() {
+class VivoPlanDelegate extends WatchUi.BehaviorDelegate 
+{
+    function initialize() 
+    {
         BehaviorDelegate.initialize();
     }
 
