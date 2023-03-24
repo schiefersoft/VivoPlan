@@ -1,2 +1,2 @@
 # VivoPlan
-eine kleine Stundenppan App für die Garmin Uhr vivoactive
+eine kleine Stundenplan App für die Garmin Uhr vivoactive
