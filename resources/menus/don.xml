@@ -1,0 +1,9 @@
+<menu id="DonMenu">
+    <menu-item id="h1" label="1.BIO" />
+    <menu-item id="h2" label="2.FR" />
+    <menu-item id="h3" label="3.FR" />
+    <menu-item id="h4" label="4.ETH" />
+    <menu-item id="h5" label="5.ETH" />
+    <menu-item id="h6" label="6.EN" />
+    <menu-item id="h7" label="7.-" />
+</menu>

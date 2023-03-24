@@ -1,0 +1,9 @@
+<menu id="MitMenu">
+    <menu-item id="h1" label="1.EN" />
+    <menu-item id="h2" label="2.DE" />
+    <menu-item id="h3" label="3.DE" />
+    <menu-item id="h4" label="4.KU/INF" />
+    <menu-item id="h5" label="5.KU/INF" />
+    <menu-item id="h6" label="6.FR" />
+    <menu-item id="h7" label="7.-" />
+</menu>

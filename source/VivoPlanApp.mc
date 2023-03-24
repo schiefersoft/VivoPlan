@@ -17,8 +17,14 @@ class VivoPlanApp extends Application.AppBase {
     }
 
     // Return the initial view of your application here
-    function getInitialView() as Array<Views or InputDelegates>? {
+    function getInitialView() as Array<Views or InputDelegates>? 
+    {
+        WatchUi.pushView(new Rez.Menus.MainMenu(), new VivoPlanMenuDelegate(), WatchUi.SLIDE_UP);
         return [ new VivoPlanView(), new VivoPlanDelegate() ] as Array<Views or InputDelegates>;
+        
+        /*var menu = new Rez.Menus.MainMenu();
+        menu.setTitle("Stundenplan");
+        return [ menu, new VivoPlanMenuDelegate() ] as Array<Views or InputDelegates>;*/
     }
 
 }

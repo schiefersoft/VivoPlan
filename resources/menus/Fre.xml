@@ -1,0 +1,9 @@
+<menu id="FreMenu">
+    <menu-item id="h1" label="1.FR" />
+    <menu-item id="h2" label="2.MA" />
+    <menu-item id="h3" label="3.MA" />
+    <menu-item id="h4" label="4.EN" />
+    <menu-item id="h5" label="5.EN" />
+    <menu-item id="h6" label="6.PH" />
+    <menu-item id="h7" label="7.PH" />
+</menu>

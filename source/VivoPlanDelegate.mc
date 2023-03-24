@@ -7,8 +7,11 @@ class VivoPlanDelegate extends WatchUi.BehaviorDelegate {
         BehaviorDelegate.initialize();
     }
 
-    function onMenu() as Boolean {
-        WatchUi.pushView(new Rez.Menus.MainMenu(), new VivoPlanMenuDelegate(), WatchUi.SLIDE_UP);
+    function onMenu() as Boolean 
+    {
+        var menu=new Rez.Menus.MainMenu();
+        menu.setTitle("Stundenplan");
+        WatchUi.pushView(menu, new VivoPlanMenuDelegate(), WatchUi.SLIDE_UP);
         return true;
     }
 
