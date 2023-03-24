@@ -1,0 +1,18 @@
+<menu id="GanzeMenu">
+    <menu-item id="ht" label="-- Montag --" />
+    <menu-item id="h1" label="1.GEO,2.SP,3.SP" />
+    <menu-item id="h4" label="4.DE,5.DE,6.CH,7.-" />
+    <menu-item id="ht" label="-- Dienstag --" />
+    <menu-item id="h1" label="1.GEO,2.GRW/MU" />
+    <menu-item id="h3" label="3.GRW/MU,4.GE" />
+    <menu-item id="h5" label="5.GE,6.MA,7.MA" />    
+    <menu-item id="ht" label="-- Mittwoch --" />
+    <menu-item id="h1" label="1.EN,2.DE,3.DE,4.KU/INF" />
+    <menu-item id="h4" label="5.KU/INF,6.FR,7.-" />
+    <menu-item id="ht" label="-- Donnerstag --" />
+    <menu-item id="h1" label="1.BIO,2.FR,3.FR,4.ETH" />
+    <menu-item id="h5" label="5.ETH,6.EN,7.-" />    
+    <menu-item id="ht" label="-- Freitag --" />
+    <menu-item id="h1" label="1.FR,2.MA,3.MA" />
+    <menu-item id="h4" label="4.EN,5.EN,6.PH,7.PH" />
+</menu>

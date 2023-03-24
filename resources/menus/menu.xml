@@ -4,4 +4,5 @@
     <menu-item id="item_mi" label="@Strings.mi" />
     <menu-item id="item_do" label="@Strings.don" />
     <menu-item id="item_fr" label="@Strings.fr" />
+    <menu-item id="item_ganze" label="@Strings.ganzewoche" />
 </menu>

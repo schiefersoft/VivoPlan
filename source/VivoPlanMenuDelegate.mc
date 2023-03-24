@@ -36,6 +36,10 @@ class VivoPlanMenuDelegate extends WatchUi.MenuInputDelegate
         {
             menu=new Rez.Menus.FreMenu();
             menu.setTitle("Freitag"); 
+        }else if (item == : item_ganze)
+        {
+            menu=new Rez.Menus.GanzeMenu();
+            menu.setTitle("ganze Woche");             
         }
         WatchUi.pushView(menu, new VivoPlanMenuDelegate(), WatchUi.SLIDE_UP);            
     }

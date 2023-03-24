@@ -7,4 +7,5 @@
     <string id="fr">Freitag</string>
     <string id="sa">Sonnabend</string>
     <string id="so">Sonntag</string>
+    <string id="ganzewoche" >ganze Woche</string>
 </strings>
