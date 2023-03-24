@@ -1,0 +1,7 @@
+<menu id="MainMenu">
+    <menu-item id="item_mo" label="@Strings.mo" />
+    <menu-item id="item_di" label="@Strings.di" />
+    <menu-item id="item_mi" label="@Strings.mi" />
+    <menu-item id="item_do" label="@Strings.don" />
+    <menu-item id="item_fr" label="@Strings.fr" />
+</menu>

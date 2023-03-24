@@ -1,0 +1,14 @@
+<strings>
+    <string id="AppName">VivoPlan</string>
+
+    <string id="prompt">Click the menu button</string>
+
+
+    <string id="mo">Montag</string>
+    <string id="di">Dienstag</string>
+    <string id="mi">Mittwoch</string>
+    <string id="don">Donnerstag</string>
+    <string id="fr">Freitag</string>
+    <string id="sa">Sonnabend</string>
+    <string id="so">Sonntag</string>
+</strings>
